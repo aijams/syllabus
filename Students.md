@@ -1,5 +1,4 @@
 
 Add yourself here.
 
-* list
-* other
+* [Kai](Kai)
