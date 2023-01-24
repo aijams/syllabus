@@ -61,7 +61,7 @@ Okay, so in reality it looks more like three of these in a rack:
 * Sign up for this
   [github classroom](https://classroom.github.com/classrooms/98176993-unh-hpc-2023).
 
-* Sign up for the [class slack](https://join.slack.com/t/unhhpc2023/shared_invite/zt-12ahqsqfm-G_ThK6ico~dsFirkvW1S7Q).
+* Sign up for the [class slack](https://join.slack.com/t/newworkspace-o8k5214/shared_invite/zt-1nwjejb0k-AlPLvzJwx03GKE9785ADWQ).
 
 ## GitHub wiki
 
