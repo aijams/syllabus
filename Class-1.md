@@ -10,15 +10,8 @@
 - [GitHub wiki](#github-wiki)
     - [Your turn](#your-turn)
   - [Homework](#homework)
-- [Terminals / shells / command line](#terminals--shells--command-line)
-  - [Terminals](#terminals)
-  - [Shells / command line](#shells--command-line)
-  - [Shell scripts](#shell-scripts)
-  - [Note - End of line encoding:](#note---end-of-line-encoding)
-  - [For Windows users: WSL2](#for-windows-users-wsl2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-<!-- update -->
 
 ## Introductions
 
