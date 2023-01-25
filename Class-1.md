@@ -52,7 +52,7 @@ Okay, so in reality it looks more like three of these in a rack:
   "organization" (`unh-hpc-2023`) for this class.
 
 * Sign up for this
-  [github classroom](https://classroom.github.com/classrooms/98176993-unh-hpc-2023).
+  [github classroom](https://classroom.github.com/classrooms/122924068-unh-hpc-2023)
 
 * Sign up for the [class slack](https://join.slack.com/t/newworkspace-o8k5214/shared_invite/zt-1nwjejb0k-AlPLvzJwx03GKE9785ADWQ).
 
