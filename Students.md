@@ -9,3 +9,4 @@ Add yourself here.
 * [Tasnim](Tasnim-Oishi)
 * [Kasun](https://github.com/unh-hpc-2023/syllabus/wiki/Kasun)
 * [William](https://github.com/unh-hpc-2023/syllabus/wiki/William)
+* [M.Fiaz](M.Fiaz)
