@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm David and I'm from the [North Country](https://en.wikipedia.org/wiki/Great_North_Woods_Region_(New_Hampshire)) region of New Hampshire. I am a senior Applied Math: Computation major. I 
+Hello, I'm David and I'm from the [North Country](https://en.wikipedia.org/wiki/Great_North_Woods_Region_(New_Hampshire)) region of New Hampshire. I am a senior Applied Math: Computation major.
 
 ## Favorite Thing
 
