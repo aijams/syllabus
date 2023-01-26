@@ -8,3 +8,4 @@ Add yourself here.
 * [Joel](Joel)
 * [Tasnim](Tasnim-Oishi)
 * [Kasun](https://github.com/unh-hpc-2023/syllabus/wiki/Kasun)
+* [William](https://github.com/unh-hpc-2023/syllabus/wiki/William)
