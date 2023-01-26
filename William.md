@@ -1,11 +1,13 @@
-Hello, I'm William.
+### Hello
+I'm William.
 
 You can call me Will.
 
+### Username
 My username is NHGrizzly because I have lived in New Hampshire my whole life and I love bears. Like a grizzly, I don't completely fit in in New Hampshire so I hope to travel after graduating.
-
+### Dogs
 Bears are illegal to own so I settle for dogs. My mom has a yellow lab, enshrined below. My favorite breed is Saint Bernard.
-
+### Programming
 My favorite language that I know is C because of its use in microcontroller programming. My least favorite language that I know is Rocky Mountain BASIC. It is archaic and I have to maintain an Agilent test stand base in it for work. Here is a terrible code block from that test base:
 
      2960 SPIN:
