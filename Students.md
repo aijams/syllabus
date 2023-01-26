@@ -7,3 +7,4 @@ Add yourself here.
 * [Xiaochen](Xiaochen-Mao)
 * [Joel](Joel)
 * [Tasnim](Tasnim-Oishi)
+* [Kasun](https://github.com/unh-hpc-2023/syllabus/wiki/Kasun)
