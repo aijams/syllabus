@@ -437,3 +437,15 @@ a pain having to enter your password all the time).
 
 * It's safer not to have your password leave your own (hopefully
 trusted) computer. [Case in point](https://www.zdnet.com/article/this-linux-malware-is-hijacking-supercomputers-across-the-globe/)
+
+## Homework
+
+* set up a working development environment, including the ability to
+** edit code,
+** run commands on a UNIX/Linux command line
+** run a compiler
+** make a simple shell script and run it
+* Finish "your turn" from above
+* Email me the following:
+** How you set up your environment (what operating system you're using, your editor, etc.)
+** Attach your `hello.cxx`, the `build.sh` script and copy&paste the output from running the program.
