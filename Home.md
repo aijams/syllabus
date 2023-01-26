@@ -6,6 +6,8 @@
 
 * [Class 1](Class-1) Introductions, Accounts, etc.
 
+* [Class 2](Class-2) Terminals, Editors/IDEs, building code, ssh
+
 ## Presentations, Students, Projects
 
 [Students](Students) is a list of students taking this
