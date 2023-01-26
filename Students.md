@@ -11,3 +11,4 @@ Add yourself here.
 * [M.Fiaz](M.Fiaz)
 * [David](https://github.com/unh-hpc-2023/syllabus/wiki/David-Lemay)
 * [Göksu](Göksu)
+* [Augie](Augustus)
