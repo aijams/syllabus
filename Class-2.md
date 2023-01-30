@@ -441,11 +441,14 @@ trusted) computer. [Case in point](https://www.zdnet.com/article/this-linux-malw
 ## Homework
 
 * set up a working development environment, including the ability to
-** edit code,
-** run commands on a UNIX/Linux command line
-** run a compiler
-** make a simple shell script and run it
+* * edit code,
+* * run commands on a UNIX/Linux command line
+* * run a compiler
+* * make a simple shell script and run it. (I didn't really get to saying much about shell scripts in class. The notes above have the basics, essentially all you have to do is put your commands into a text file, and then run it, either using `bash build.sh` or making it executable using `chmod`.
+
+
 * Finish "your turn" from above
+
 * Email me the following:
-** How you set up your environment (what operating system you're using, your editor, etc.)
-** Attach your `hello.cxx`, the `build.sh` script and copy&paste the output from running the program.
+* * How you set up your environment (what operating system you're using, your editor, etc.)
+* * Attach your `hello.cxx`, the `build.sh` script and copy&paste the output from running the program.
