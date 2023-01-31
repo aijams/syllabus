@@ -8,6 +8,9 @@
 
 * [Class 2](Class-2) Terminals, Editors/IDEs, building code, ssh
 
+* [Class 3](Class-3) Building code, organizing code into multiple files
+
+
 ## Presentations, Students, Projects
 
 [Students](Students) is a list of students taking this

@@ -21,6 +21,7 @@
   - [Windows](#windows)
   - [Passwords / Keys](#passwords--keys)
   - [Why to use key-based authentication](#why-to-use-key-based-authentication)
+- [Homework](#homework)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- update -->
