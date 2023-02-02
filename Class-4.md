@@ -52,11 +52,15 @@ that repository, too.
 
 ## Ways to interact with git repositories
 
-### Your IDE (e.g., VS code)
+If you're quite new to git and github. You may find this tutorial useful: https://classroom.github.com/a/Cz8pr0in
+
+### Your IDE (e.g., VS Code)
 
 If you're using a modern (or even not so modern) IDE/editor, it probably has support for git already built in, but it may require some setup.
 
 VS Code comes with all the basics already built in. There are also various extensions for doing fancier git things (e.g., Git Lens), and also an extension to interact with github directly through VS Code, rather than through your web browser.
+
+In VS Code, if you open a new Window (from the File menu), there should be an option to clone a git repository, though you can also always directly use the "Git: Clone" Command (use ctrl-shift-p, or command-shift-p on Mac to get the command palette). [More details](https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette)
 
 ### GitHub Desktop
 
