@@ -10,6 +10,9 @@
 
 * [Class 3](Class-3) Building code, organizing code into multiple files
 
+* [Class 4](Class-4) Building code: make and Makefiles
+
+
 
 ## Presentations, Students, Projects
 
