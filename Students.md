@@ -12,3 +12,4 @@ Add yourself here.
 * [David](https://github.com/unh-hpc-2023/syllabus/wiki/David-Lemay)
 * [Göksu](Göksu)
 * [Augie](Augustus)
+* [Abishek](https://github.com/unh-hpc-2023/syllabus.wiki.git)
