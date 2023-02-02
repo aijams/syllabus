@@ -26,7 +26,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 * Office hours: Mon 2-3pm, or on demand
-* Code from last class:
+* Code from last class: https://github.com/unh-hpc-2023/class-3
 
 ## Getting code from GitHub
 
