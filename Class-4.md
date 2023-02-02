@@ -7,7 +7,7 @@
 - [Getting code from GitHub](#getting-code-from-github)
   - [Doing an assignment on github classroom](#doing-an-assignment-on-github-classroom)
 - [Ways to interact with git repositories](#ways-to-interact-with-git-repositories)
-  - [Your IDE (e.g., VS code)](#your-ide-eg-vs-code)
+  - [Your IDE (e.g., VS Code)](#your-ide-eg-vs-code)
   - [GitHub Desktop](#github-desktop)
   - [git on the command line](#git-on-the-command-line)
     - [Your turn](#your-turn)
@@ -22,11 +22,11 @@
 - [More on make, and some of its limitations](#more-on-make-and-some-of-its-limitations)
 - [Homework](#homework)
   - [Sample report bit](#sample-report-bit)
-- [<!--](#--)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-* Office hours: Mon 2-3pm
+* Office hours: Mon 2-3pm, or on demand
+* Code from last class:
 
 ## Getting code from GitHub
 
@@ -378,57 +378,3 @@ called. (It was now defined in `greeting.c`, but I didn't tell the
 compiler to compile that file. I fixed that in the next step)
 
 [...]
-
-<!--
----
-
-*  You can, but don't have to, change the output to using
-  `<iostream>`, which is the traditional C++ way of doing output, and
-  it's maybe a bit nicer than `printf()` in C, but still kinda
-  cumbersome.
-
-* In the end, after making sure that you're done a series of commits
-  showing your work, push the result back to github, which is where I
-  will take a look at it.
-
-The usual way of doing this is
-
-```sh
-$ git push
-```
-
-This will push your current branch back to where it came from, that
-is, the github repository that has your group's assignment.
-
-But, as usual, things get a little bit more complicated. The above is
-just short-hand for
-
-```sh
-$ git push origin main
-```
-
-which more explicitly says to push to `origin`, which is where the
-repository came from in the first place (ie., your assignment repo on
-github), and specifies that the branch to push is `main`, which is
-what the default branch is usually named (well, or `master`, which is
-the older default).
-
-Now if you're working in a team, and everyone is making their own
-changes, the first person will have local `main` branch with their
-changes, and they'll be successful in pushing it back. However, the
-next person will also have a local `main` branch, but the changes in
-their will be different. If both people pushed to the same remote
-`main` branch, one would overwrite what the other did, and git doesn't
-want that to happen, so the 2nd person's push will be rejected.
-
-We'll deal with this more later, but for now a way to work around this
-is do something like
-
-```sh
-# make a new branch called `kai`
-$ git switch -c kai
-# push that to branch to github, and remember that choice
-$ git push -u origin kai
-```
-
--->
