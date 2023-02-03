@@ -352,7 +352,9 @@ compiler might be called `pgcc` or `clang`.
 
 ## Homework
 
-Check back here.
+* Finish the "your turn" exercises from above
+* Keep a log of what you've been doing and add any comments you might have. For now, you can still submit this via email (together or separate with the report from class 3).
+* As you do your work, make commits to keep track of your work (but at this point, no need to push them back to github or submit them, though we'll get there soon.)
 
 ### Sample report bit
 
