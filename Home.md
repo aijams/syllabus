@@ -12,6 +12,8 @@
 
 * [Class 4](Class-4) Building code: make and Makefiles
 
+* [Class 5](Class-5) Building code: cmake
+
 
 
 ## Presentations, Students, Projects
