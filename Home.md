@@ -14,6 +14,8 @@
 
 * [Class 5](Class-5) Building code: cmake
 
+* [Class 6](Class-6) Testing and Debugging
+
 
 
 ## Presentations, Students, Projects
