@@ -16,6 +16,8 @@
 
 * [Class 6](Class-6) Testing and Debugging
 
+* [Class 7](Class-7) Testing and Debugging, continued (TDD)
+
 
 
 ## Presentations, Students, Projects
@@ -23,6 +25,6 @@
 [Students](Students) is a list of students taking this
 class, linking to their personal wiki page.
 
-<!-- [Presentations](Presentations) is the schedule and sign-up for student presentations in this class.
+[Presentations](Presentations) is the schedule and sign-up for student presentations in this class.
 
-[Project 1](Project-1) is posted. -->
+<!-- [Project 1](Project-1) is posted. -->
