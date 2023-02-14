@@ -21,7 +21,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Today's [assignment]()
+Today's [assignment](https://classroom.github.com/a/Ym-dA7bi)
 
 ## Testing and debugging continued
 
@@ -435,7 +435,10 @@ I can help with issues further down the road.
 ### Your turn / Homework
 
 * Finish the bowling project.
+
 * It may not hurt to throw some arbitrary tests from the internet on it. E.g., here's one: https://www.myactivesg.com/sports/bowling/how-to-play/bowling-rules/how-are-points-determined-in-bowling. Of course, you'll need to translate it into input for your code, and remember that only actually rolls should be in the input. So the score card from this link should start like this: `{ 10, 9,1, 5,5, 7,2, 10, 10, ...}`.
+
+* Sign up for a [Presentation](Presentations)
 
 <!--
 
