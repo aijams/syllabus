@@ -13,3 +13,4 @@ Add yourself here.
 * [Göksu](Göksu)
 * [Augie](Augustus)
 * [Abishek](https://github.com/unh-hpc-2023/syllabus/wiki/Abishek-Muralikrishna)
+* [Sajjad](Sajjad)
