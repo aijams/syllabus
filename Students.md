@@ -14,3 +14,4 @@ Add yourself here.
 * [Augie](Augustus)
 * [Abishek](https://github.com/unh-hpc-2023/syllabus/wiki/Abishek-Muralikrishna)
 * [Sajjad](Sajjad)
+* [Kaushik](https://github.com/unh-hpc-2023/syllabus/wiki/Kaushik)
