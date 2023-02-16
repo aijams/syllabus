@@ -363,62 +363,6 @@ process.
 Testing unfortunately does not avoid debugging completely, but it often
 helps narrowing down where things go wrong.
 
-<!--
-## Linear_algebra project in C
-
-Today we'll also start working on yet another toy project, but it's getting
-a bit more realistic. This work (as it expands over the next couple of
-classes) has multiple objectives:
-
-* Become more familiar with cmake and learn a bit more about it (e.g.,
-  subdirectories).
-* Understand some basic ideas behind object-oriented programming, and
-  learn about structuring your code.
-* Learn some more about C++ and how it makes things prettier than C.
-* Understand how multi-dimensional arrays work.
-
-There is very little in terms of (detailed) instructions today. So
-you'll have to use whatever resources are available to you (prior
-knowledge, notes from previous clases, your team members, your
-instructor, slack, google, whatever...)
-
-### First steps
-
-(Nothing is really new here, but I'll repeat it here as a checklist
-which might be useful for future reference until the process becomes
-natural.)
-
-* Sign up for the class repository (see link above).
-
-* Clone your newly created github repository onto your work
-  machine. You can use git (`git clone <URL-from-github-repo-page>`)
-  or GitHub Desktop.
-
-* Change into the the directory (`cd class8-<team>`).
-
-* The work happens in the `linear_algebra` directory so change into it
-  (`cd linear_algebra`).
-
-* Create and switch to your own branch (`git checkout -b <branchame>`
-  or, in modern git, `git switch -c <branchname>`).
-
-* Make sure you can build the code: Create a build directory `mkdir build`, change into it `cd build`, configure CMake `cmake ..`, build it `make`, run it. The code is in the `c` subdirectory.
-
-* Make changes and commit as you go. You can create a pull request on
-  github after you've made your first commit (and pushed your branch
-  to github). This can be useful if you want to write comments as you
-  go.
-
-  Generally speaking, if you just want to describe what changes you've
-  made to the code, the best place to do so is in the commit
-  message. If you just do what I ask for below, it's fine to be brief
-  about it ("added vector_add() and a test"). (That test should pass,
-  too.)
-
-  If I ask questions ("What happens if you do xyz?") the answers
-  are best put into the pull request comments (but I'm not actually
-  asking many questions below.)
--->
 
 ### VS code notes
 
@@ -439,30 +383,3 @@ I can help with issues further down the road.
 * It may not hurt to throw some arbitrary tests from the internet on it. E.g., here's one: https://www.myactivesg.com/sports/bowling/how-to-play/bowling-rules/how-are-points-determined-in-bowling. Of course, you'll need to translate it into input for your code, and remember that only actually rolls should be in the input. So the score card from this link should start like this: `{ 10, 9,1, 5,5, 7,2, 10, 10, ...}`.
 
 * Sign up for a [Presentation](Presentations)
-
-<!--
-
-* Take the test part of the code out of `vector_dot.c` and make a
-  separate `test_vector_dot.c`. Update the `CMakeLists.txt` accordingly.
-
-* Add a new file `vector_add.c`, and write a function `vector_add(x,
- y, z)` that adds x + y and puts the result into z. Write a test for
- this routine in a separate file.  Update the `CMakeLists.txt`
- accordingly.
-
-* (more challenging) Add a new file `matrix_vector_mul.c`, and write a
-	 function `matrix_vector_mul(A, x, y)` that calculates y = Ax,
-	 where A is a N x N matrix. Write a test for it.  Update the
-	 `Makefile.am` accordingly.
-
-* Add at least one automated test for each of the three functions be
-	 run by `ctest .`. (You can base these tests on testing code you
-	 already have.)
-
-* Build a library `linalg` that contains the three linear algebra
-	 functions above. Change your tests to link with that library.
-
-* Start thinking about how to make this library more generic, in
-  particular, how to avoid having it work only with the hardcoded
-  vector size N = 3.
--->
