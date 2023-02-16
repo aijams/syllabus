@@ -3,13 +3,13 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Homework etc](#homework-etc)
-- [Linear Algebra, testing, debugging, continued](#linear-algebra-testing-debugging-continued)
-  - [My work](#my-work)
-  - [Dealing with variable vector length](#dealing-with-variable-vector-length)
-  - [Structs, argument passing and pointers](#structs-argument-passing-and-pointers)
+- [Linear_algebra project in C](#linear_algebra-project-in-c)
+  - [First steps](#first-steps)
+  - [Linear Algebra: It starts with a dot product](#linear-algebra-it-starts-with-a-dot-product)
     - [Your turn](#your-turn)
-  - [Introducing `struct vector`.](#introducing-struct-vector)
-    - [Your turn](#your-turn-1)
+- [Homework](#homework)
+  - [Structs, argument passing and pointers](#structs-argument-passing-and-pointers)
+    - [Your turn (OPTIONAL part of homework)](#your-turn-optional-part-of-homework)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
