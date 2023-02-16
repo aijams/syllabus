@@ -13,7 +13,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Today's assignment:
+Today's assignment: <https://classroom.github.com/a/VZ1clNjA>
 
 ## Homework etc
 
