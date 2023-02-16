@@ -77,7 +77,7 @@ natural.)
   are best put into the pull request comments (but I'm not actually
   asking many questions below.)
 
-### Linear Algebra: It starts with a dot product
+### Linear Algebra: It all starts with a dot product
 
 As opposed to Fortran, neither C nor C++ really have much concept of mathematical objects that are useful for numerical
 computations. So the idea here is to see what it takes to add some basic linear algebra capabilities.
