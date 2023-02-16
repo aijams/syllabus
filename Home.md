@@ -18,6 +18,8 @@
 
 * [Class 7](Class-7) Testing and Debugging, continued (TDD)
 
+* [Class 8](Class-8) Testing and Debugging, continued (linear algebra)
+
 
 
 ## Presentations, Students, Projects
