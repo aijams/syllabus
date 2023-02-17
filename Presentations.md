@@ -8,6 +8,8 @@ Aim for about 10 minutes for your presentation. The topic should be somehow rela
 
 * Sample Student: Title (Thursday 3/9/23)
 
+* Augustus Ijams: Tensor Networks (Thursday 3/23/23)
+
 ### Arbitrary examples of possible topics
 
 * git branching and merging workflows
